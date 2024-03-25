@@ -3,7 +3,9 @@
 Optimize your customer registration process with this Power Platform solution, automating the extraction of data from ID cards using Microsoft's AI Builder in conjunction with Power Apps and Power Automate. The extracted customer information is saved to Dataverse as part of the registration process. This pre-built solution simplifies data entry, enhances accuracy, and accelerates processes by intelligently extracting information from various ID documents and auto-filling it into a Power App.
 
 
-https://github.com/PriyaranjanKS/PowerPlatform_AIRegistration/assets/29351010/361fd2af-eebe-40bf-897b-243589f7b624
+
+https://github.com/PriyaranjanKS/PowerPlatform_AIRegistration/assets/29351010/f42d3abe-57fb-4832-a5b1-57db8ffc0ded
+
 
 
 ## 🌟 Features
